@@ -1,0 +1,42 @@
+:root{
+    --color-a1: #f96325;
+    --color-a2: #0cff8c;
+    --color-a3: #3d9397;
+    --color-a4: #94d28d;
+    --color-a5: #e9d8a6;
+    --color-a6: #ee9800;
+    --color-a7: #ca6702;
+    --color-a8: #bb3e03;
+    --color-a9: #ae2012;
+    --color-a10: #9b2226;
+}
+
+
+
+
+/* =================================== */
+            /* BANER */
+/* =================================== */
+.food-container{
+    background-color: #ffb30e;
+    height: 1000px;
+}
+
+.banner-a1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.banner-a1 img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    /* margin: -10% 0% 0% 55%; */
+}
+.form-food{
+    position: relative;
+}
+.fa-location-dot{
+    position: absolute;
+}
+.address-search{
+    padding-left: 30px;
+}
